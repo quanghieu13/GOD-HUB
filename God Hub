@@ -3,4 +3,4 @@ getgenv().ScriptSubTitle = "V11.11.11"
 getgenv().ScriptImage = "https://i.ibb.co/4n5WtJCV/avater.jpg"
 getgenv().ScriptAuthorName = "God QuangHieu"
 getgenv().ScriptAuthorSubTitle = "Unothiles6"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/quanghieu13/GOD-HUB/refs/heads/main/HUB"))()
